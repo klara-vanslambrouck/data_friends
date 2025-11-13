@@ -5,3 +5,8 @@ matplotlib
 plotly
 scipy
 spacy
+<<<<<<< HEAD
+=======
+WordCloud
+openai
+>>>>>>> afc9d16e6cd16369aa1b17c0849c9f2a7ec8b712
